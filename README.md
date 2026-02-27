@@ -3,7 +3,7 @@
 Meu nome e Gabriel Piva 
 
 * Estou estudando o curso de analise e deselvolvimento de sistemas na FATEC
-* Estou me desenvolvendo na linguagem JavaScript
+* Estou me desenvolvendo na linguagem Python
 * utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Entre em contato comigo pelo 📬
