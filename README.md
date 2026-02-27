@@ -2,7 +2,7 @@
 
 Meu nome e Gabriel Piva 
 
-* Estou estudando na [alura](https://www.alura.com.br)
+* Estou estudando o curso de analise e deselvolvimento de sistemas na FATEC
 * Estou me desenvolvendo na linguagem JavaScript
 * utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
